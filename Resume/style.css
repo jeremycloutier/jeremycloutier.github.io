@@ -1,0 +1,66 @@
+.jumbotron {
+  background-color: #ABDDF1;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  padding-right: 10px;
+  padding-left: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border: 4px ridge black;
+}
+
+.jumbotron h1 {
+  text-align: center;
+}
+
+.jumbotron .container {
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+}
+
+.jumbotron .pull-left {
+	padding-top: 95px;
+}
+
+.jumbotron .pull-right {
+	padding-top: 95px;
+}
+
+.jumbotron .thumbnail {
+	margin-bottom: 5px;
+}
+
+.profile {
+	background-color: #ABDDF1;
+	font-family: Helvetica, sans-serif;
+	margin-right: 200px;
+    margin-left: 200px;
+    padding-left: 20px;
+    border: solid 2px black;
+}
+
+
+.experience {
+	background-color: #ABDDF1;
+	font-family: Helvetica, sans-serif;
+	margin-right: 200px;
+	margin-left: 200px;
+	padding-left: 20px;
+	border: solid 2px black;
+}
+
+.education {
+	background-color: #ABDDF1;
+	font-family: Helvetica, sans-serif;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+	padding-left: 20px;
+	border: solid 2px black;
+}
+
+
+
+

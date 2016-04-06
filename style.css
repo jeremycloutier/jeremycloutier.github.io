@@ -1,3 +1,14 @@
+.display {
+	display: none;
+}
+button#show {
+  position: absolute;
+  margin: auto;
+  top: 200px;
+  right: 0;
+  bottom: auto;
+  left: 0;
+}
 .jumbotron {
   margin-bottom: 0px;
   padding-right: 10px;

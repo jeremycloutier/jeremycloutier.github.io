@@ -1,14 +1,3 @@
-.display {
-	display: none;
-}
-button#show {
-  position: absolute;
-  margin: auto;
-  top: 200px;
-  right: 0;
-  bottom: auto;
-  left: 0;
-}
 .jumbotron {
   margin-bottom: 0px;
   padding-right: 10px;
@@ -16,7 +5,7 @@ button#show {
   padding-top: 0px;
   padding-bottom: 0px;
   border-bottom: 3px solid black;
-  background: url("teal_texture.png");
+  background: url("server/public/assets/teal_texture.png");
 }
 .jumbotron .container {
 	font-size: 14px;
@@ -60,7 +49,7 @@ h3 {
 	padding-bottom: 10px;
 }
 body {
-	background: url("teal_texture.png");
+	background: url("server/public/assets/teal_texture.png");
 	color: black;
 	border: solid 5px black;
 	border-radius: 10px;

@@ -1,0 +1,23 @@
+{
+  "name": "jeremycloutier.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremycloutier/jeremycloutier.github.io.git"
+  },
+  "author": "jeremycloutier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremycloutier/jeremycloutier.github.io/issues"
+  },
+  "homepage": "https://github.com/jeremycloutier/jeremycloutier.github.io#readme"
+}
